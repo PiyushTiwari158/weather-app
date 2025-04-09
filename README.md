@@ -25,9 +25,6 @@ git clone https://github.com/yourusername/weather-app.git
 cd weather-app
 
 2. Install Dependencies
-bash
-Copy
-Edit
 npm install
 
 3. Configure API Key
