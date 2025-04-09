@@ -2,6 +2,8 @@
 
 A responsive and user-friendly **Weather App** built with **React + Vite**, using the **OpenWeather API**. It shows current weather conditions including temperature, weather type, humidity, wind speed, and a dynamic background based on weather.
 
+🚀 **Live Demo:** [Click here to view the app](https://weather-forc.netlify.app/)
+
 ---
 
 ## 🚀 Features
